@@ -94,38 +94,6 @@ NLP model to detect fraudulent jobs.
 
 ---
 
-## 📌 Featured Repositories
-
-> Replace repo names below with your exact GitHub repo names (if different).
-
-<p align="center">
-  <a href="https://github.com/RishabhIIITD/Hintify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhIIITD&repo=Hintify&hide_border=true" />
-  </a>
-  <a href="https://github.com/RishabhIIITD/Multi-Video-RAG-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhIIITD&repo=Multi-Video-RAG-Chatbot&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RishabhIIITD/Fake-Job-Posting-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhIIITD&repo=Fake-Job-Posting-Detection&hide_border=true" />
-  </a>
-  <a href="https://github.com/RishabhIIITD/AI-Agents-LangGraph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhIIITD&repo=AI-Agents-LangGraph&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishabhIIITD&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
