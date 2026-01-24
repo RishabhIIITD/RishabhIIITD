@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:rishabh20118@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-rishabh20118%40iiitd.ac.in-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/rishabh-bafna"><img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Bafna-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rishabh-bafna-98402212a"><img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Bafna-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/RishabhIIITD"><img src="https://img.shields.io/badge/GitHub-RishabhIIITD-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
