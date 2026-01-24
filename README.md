@@ -119,7 +119,7 @@ NLP model to detect fraudulent jobs.
 ## 🤝 Connect With Me
 
 - 📧 Email: **rishabh20118@iiitd.ac.in**
-- 💼 LinkedIn: **linkedin.com/in/rishabh-bafna**
+- 💼 LinkedIn: **linkedin.com/in/rishabh-bafna-98402212a**
 - 💻 GitHub: **github.com/RishabhIIITD**
 
 ---
