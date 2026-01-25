@@ -32,7 +32,7 @@ I’m **Rishabh Bafna**, a **Software Development Engineer – I** and **Associa
 - 🧠 **GenAI / LLM Applications**
 - 🔎 **RAG pipelines**
 - 🤖 **AI agents (LangGraph, CrewAI)**
-- 📚 AI learning assistants that generate **progressive hints instead of final answers**
+- 📚 Worked extensively on AI-based learning assistants
 
 💼 Currently: **SDE-I @ Incanus Technologies Pvt. Ltd. (NST-ADYPU)**  
 📍 India
