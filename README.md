@@ -27,14 +27,14 @@
 
 ## 👨‍💻 About Me
 
-I’m **Rishabh Bafna**, a **Software Development Engineer – I** and **Associate Instructor**, building practical AI systems around:
+I’m **Rishabh Bafna**, a **Senior AI Engineer**, building practical AI systems around:
 
 - 🧠 **GenAI / LLM Applications**
 - 🔎 **RAG pipelines**
 - 🤖 **AI agents (LangGraph, CrewAI)**
 - 📚 Worked extensively on AI-based learning assistants
 
-💼 Currently: **SDE-I @ Incanus Technologies Pvt. Ltd. (NST-ADYPU)**  
+💼 Currently: **Senior AI Engineer and Lead Instructor @ upGrad School of Technology**  
 📍 India
 
 ---
