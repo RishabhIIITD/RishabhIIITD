@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RishabhIIITD&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-20%20Production%20PRs-2ea44f?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-26%20Production%20PRs-2ea44f?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Hacktoberfest-Supercontributor-orange?style=flat-square&logo=github" />
 </p>
 
@@ -41,7 +41,7 @@ I am a **Senior AI Engineer** and **Lead Instructor** specializing in the inters
 
 <p align="center">
   <a href="https://github.com/RishabhIIITD/open-source-journey">
-    <img src="https://img.shields.io/badge/Open%20Source%20Journey-20%20Production%20PRs-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source%20Journey-26%20Production%20PRs-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/RishabhIIITD/open-source-journey">
     <img src="https://img.shields.io/badge/RFC%205545%20iCalendar-Production%20Codebase-2ea44f?style=for-the-badge&logo=python&logoColor=white" />
@@ -89,7 +89,7 @@ Active contributor to production Python engines, distributed systems, and develo
 - 🥇 **GATE CS 2020:** All India Rank **532** (Top 0.5% of 100,000+ candidates).
 - 🧾 **Patent Holder:** *AI-based Collaborative Learning System* (App No: 202121030065).
 - 📄 **Published Researcher:** "Region-based damage assessment on xBD satellite imagery" (*Natural Hazards, 2023*).
-- 🦈 **GitHub Achievements:** Unlocked **Quickdraw**, **YOLO**, and **Pull Shark (Bronze)** for upstream open-source code contributions.
+- 🦈 **GitHub Achievements:** Unlocked **Quickdraw**, **YOLO**, and **Pull Shark (Silver x2)** for upstream open-source code contributions.
 
 ---
 
