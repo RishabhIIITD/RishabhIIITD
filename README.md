@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RishabhIIITD&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-20%20Upstream%20PRs-2ea44f?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Source-21%20Upstream%20PRs-2ea44f?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Hacktoberfest-Supercontributor-orange?style=flat-square&logo=github" />
 </p>
 
@@ -41,7 +41,7 @@ I am a **Senior AI Engineer** and **Lead Instructor** specializing in the inters
 
 <p align="center">
   <a href="https://github.com/RishabhIIITD/open-source-journey">
-    <img src="https://img.shields.io/badge/Upstream%20Open%20Source-20%20Production%20PRs-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Upstream%20Open%20Source-21%20Production%20PRs-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/RishabhIIITD/open-source-journey">
     <img src="https://img.shields.io/badge/RFC%205545%20iCalendar-Production%20Codebase-2ea44f?style=for-the-badge&logo=python&logoColor=white" />
