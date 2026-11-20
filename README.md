@@ -89,7 +89,7 @@ Active contributor to production Python engines, distributed systems, and develo
 - 🥇 **GATE CS 2020:** All India Rank **532** (Top 0.5% of 100,000+ candidates).
 - 🧾 **Patent Holder:** *AI-based Collaborative Learning System* (App No: 202121030065).
 - 📄 **Published Researcher:** "Region-based damage assessment on xBD satellite imagery" (*Natural Hazards, 2023*).
-- 🦈 **GitHub Achievements:** Unlocked **YOLO** and **Pull Shark (Bronze)** for upstream open-source code contributions.
+- 🦈 **GitHub Achievements:** Unlocked **Quickdraw**, **YOLO**, and **Pull Shark (Bronze)** for upstream open-source code contributions.
 
 ---
 
