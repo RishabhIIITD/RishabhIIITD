@@ -2,23 +2,23 @@
 <!--              Rishabh Bafna • GitHub Profile           -->
 <!-- ===================================================== -->
 
-<p align=center>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00172D,100:00264D&height=220&section=header&text=Rishabh%20Bafna&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align=center>
+<p align="center">
   <a href="https://github.com/RishabhIIITD">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Senior+AI+Engineer+%7C+GenAI+%26+LLM+Specialist;Architecting+Autonomous+AI+Agents+%26+RAG;Lead+Instructor+%40+upGrad+School+of+Technology;Bridging+the+gap+between+AI+Scale+and+Human+Learning" />
   </a>
 </p>
 
-<p align=center>
+<p align="center">
   <a href="https://linkedin.com/in/rishabh-bafna-98402212a"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rishabh20118@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/RishabhIIITD"><img src="https://img.shields.io/badge/GitHub-View%20Projects-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align=center>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=RishabhIIITD&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-20%20Production%20PRs-2ea44f?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Hacktoberfest-Supercontributor-orange?style=flat-square&logo=github" />
@@ -39,7 +39,7 @@ I am a **Senior AI Engineer** and **Lead Instructor** specializing in the inters
 
 ### 🌐 Upstream Open-Source Contributions
 
-<p align=center>
+<p align="center">
   <a href="https://github.com/RishabhIIITD/open-source-journey">
     <img src="https://img.shields.io/badge/Open%20Source%20Journey-20%20Production%20PRs-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -50,7 +50,7 @@ I am a **Senior AI Engineer** and **Lead Instructor** specializing in the inters
 
 Active contributor to production Python engines, distributed systems, and developer tooling:
 
-- 📅 **[PyCalendar / icalendar](https://github.com/PyCalendar/icalendar):** Implemented RFC 5545 recurrence rule accessors and validation suites (, , , , ,  handling).
+- 📅 **[PyCalendar / icalendar](https://github.com/PyCalendar/icalendar):** Implemented RFC 5545 recurrence rule accessors and validation suites (`byday`, `byweekday`, `skip`, `rscale`, `bysetpos`, `COMPLETED` handling).
 - 🛠️ **[Repowise](https://github.com/AbanteAI/repowise):** CLI error handling, standardized JSON output interfaces, and directory path existence validation.
 - 🐳 **[Ishti AI](https://github.com/ishti-ai):** Hardened Docker sandbox execution with multi-arch digest pinning and environment sandboxing.
 - 📚 **[Open Library (Internet Archive)](https://github.com/internetarchive/openlibrary):** Web.py API route maintenance and Librarian automated tasks date validation.
@@ -62,13 +62,13 @@ Active contributor to production Python engines, distributed systems, and develo
 
 ### 🛠️ Core Expertise
 
-<p align=center>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,nextjs,react,ts,tailwind,electron,docker,kubernetes,githubactions,mysql,mongodb,postgres,azure,aws,linux,git" />
   </a>
 </p>
 
-<div align=center>
+<div align="center">
 
 | **GenAI & LLMs** | **Full-Stack & Desktop** | **Cloud & DevOps** |
 | :--- | :--- | :--- |
@@ -82,7 +82,7 @@ Active contributor to production Python engines, distributed systems, and develo
 
 ### 🏆 Achievements & Recognition
 
-<p align=center>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RishabhIIITD&theme=tokyonight&no-bg=true&column=4" />
 </p>
 
@@ -124,12 +124,12 @@ Active contributor to production Python engines, distributed systems, and develo
 
 ### 📊 Engineering Metrics
 
-<p align=center>
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=RishabhIIITD&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhIIITD&layout=compact&theme=tokyonight" />
 </p>
 
-<p align=center>
+<p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhIIITD&theme=tokyonight" />
 </p>
 
@@ -143,7 +143,7 @@ I am always open to collaborating on innovative AI projects, speaking engagement
 - **Email:** [rishabh20118@iiitd.ac.in](mailto:rishabh20118@iiitd.ac.in)
 - **GitHub:** [RishabhIIITD](https://github.com/RishabhIIITD)
 
-<p align=center>
+<p align="center">
   <br />
   <i>“I build AI systems that scale — but I design them so people learn, not just copy.”</i>
 </p>
